@@ -1,16 +1,8 @@
-[![Header](https://github.com/mranolegprivate/anoleg_rezume/blob/main/assets/AN.png)]
+https://img.hhcdn.ru/photo/718347331.jpeg?t=1678464362&h=OEqsAgWLsfMx5Gxh1YzGQA
 
-Ключевые навыки:
-Atlassian Confluence, Sitechco, Atlassian Jira, UX, UI ,Регрессионное тестирование, Функциональное и нефункциональное тестирование, интеграционное тестирование, Miro, Figma
-Postman
-DevTools
-SOAP UI
-API
-SQL
-Git
-Работа в команде
-Qase.io
-Навыки обучения
+
+
+
 
 Обо мне:
 Я хочу работать в динамичной сфере, где можно постоянно учиться и развиваться. Тестирование - это область, где технологии и методики постоянно меняются, и я могу постоянно получать новые знания и опыт.
@@ -27,8 +19,4 @@ Qase.io
 
 - При необходимости готов пройти тестовое задание для подтверждения своих знаний:
 
-Last job
 
-Languege and Tools
-
-Follow me.
