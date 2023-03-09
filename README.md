@@ -1,4 +1,4 @@
-https://img.hhcdn.ru/photo/718347331.jpeg?t=1678464362&h=OEqsAgWLsfMx5Gxh1YzGQA
+(https://img.hhcdn.ru/photo/718347331.jpeg?t=1678464362&h=OEqsAgWLsfMx5Gxh1YzGQA)
 
 
 
