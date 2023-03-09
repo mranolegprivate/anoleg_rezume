@@ -151,3 +151,8 @@ https://drive.google.com/drive/folders/18E7Zc1__Z6pqWjuur3lRHl91IHbmcj_o?usp=sha
 
 Корейский — A2 — Элементарный
 
+![Электронные_сертификаты:](https://img.shields.io/badge/-Электронные_сертификаты:-090909?style=for-the-badge&Color=1195F5)
+
+![stepik_jira](https://stepik.org/certificate/f1a70fa9a1e01fe4345118f83a894f73f62d6d61.png?resolution=low)
+![netology_python](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/212575/b6507cbb53e268fcf74f740f0bbebfc6.png?ts=1667917309)
+
