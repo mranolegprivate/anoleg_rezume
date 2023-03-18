@@ -1,0 +1,298 @@
+{
+	"info": {
+		"_postman_id": "9ef7c485-7c08-4335-9977-24aa92d9447f",
+		"name": "Карьерный центр Ан Олег",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22920825"
+	},
+	"item": [
+		{
+			"name": "Добавить сообщение с картинкой на свою стену",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var key = \"post_id\"\r",
+							"var value = pm.response.json().response.post_id\r",
+							"pm.collectionVariables.set(key, value);\r",
+							"\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}method/wall.post?{{owner_id}}&{{friends_only}}&{{message}}&{{access_token}}&{{v}}&{{attachments}}&n=13",
+					"host": [
+						"{{baseURL}}method"
+					],
+					"path": [
+						"wall.post"
+					],
+					"query": [
+						{
+							"key": "{{owner_id}}",
+							"value": null
+						},
+						{
+							"key": "{{friends_only}}",
+							"value": null
+						},
+						{
+							"key": "{{message}}",
+							"value": null
+						},
+						{
+							"key": "{{access_token}}",
+							"value": null
+						},
+						{
+							"key": "{{v}}",
+							"value": null
+						},
+						{
+							"key": "{{attachments}}",
+							"value": null
+						},
+						{
+							"key": "n",
+							"value": "13"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Удалить сообщение с картинкой с своей стены",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}/method/wall.delete?{{owner_id}}&post_id={{post_id}}&{{access_token}}=&{{v}}",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"method",
+						"wall.delete"
+					],
+					"query": [
+						{
+							"key": "{{owner_id}}",
+							"value": null
+						},
+						{
+							"key": "post_id",
+							"value": "{{post_id}}"
+						},
+						{
+							"key": "{{access_token}}",
+							"value": ""
+						},
+						{
+							"key": "{{v}}",
+							"value": null
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Получить список сообщений на стене",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}method/wall.get?{{owner_id}}&{{friends_only}}&{{message}}&{{access_token}}&{{v}}",
+					"host": [
+						"{{baseURL}}method"
+					],
+					"path": [
+						"wall.get"
+					],
+					"query": [
+						{
+							"key": "{{owner_id}}",
+							"value": null
+						},
+						{
+							"key": "{{friends_only}}",
+							"value": null
+						},
+						{
+							"key": "{{message}}",
+							"value": null
+						},
+						{
+							"key": "{{access_token}}",
+							"value": null
+						},
+						{
+							"key": "{{v}}",
+							"value": null
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Просмотреть конкретное сообщение на стене",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}method/wall.getById?{{owner_id}}&{{friends_only}}&{{message}}&{{access_token}}&{{v}}&{{posts}}",
+					"host": [
+						"{{baseURL}}method"
+					],
+					"path": [
+						"wall.getById"
+					],
+					"query": [
+						{
+							"key": "{{owner_id}}",
+							"value": null
+						},
+						{
+							"key": "{{friends_only}}",
+							"value": null
+						},
+						{
+							"key": "{{message}}",
+							"value": null
+						},
+						{
+							"key": "{{access_token}}",
+							"value": null
+						},
+						{
+							"key": "{{v}}",
+							"value": null
+						},
+						{
+							"key": "{{posts}}",
+							"value": null
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "owner_id",
+			"value": "owner_id=402211113",
+			"type": "string"
+		},
+		{
+			"key": "baseURL",
+			"value": "https://api.vk.com/",
+			"type": "string"
+		},
+		{
+			"key": "access_token",
+			"value": "access_token=",
+			"type": "string"
+		},
+		{
+			"key": "message",
+			"value": "message=Карьерный центр тестовое сообщение",
+			"type": "string"
+		},
+		{
+			"key": "v",
+			"value": "v=5.131",
+			"type": "string"
+		},
+		{
+			"key": "posts",
+			"value": "posts=402211113_156",
+			"type": "string"
+		},
+		{
+			"key": "attachments",
+			"value": "attachments=https://flameweek.com/wp-content/uploads/2022/11/sky.pro_.jpg",
+			"type": "string"
+		},
+		{
+			"key": "friends_only",
+			"value": "friends_only=1",
+			"type": "string"
+		},
+		{
+			"key": "post_id",
+			"value": "",
+			"type": "string"
+		}
+	]
+}
