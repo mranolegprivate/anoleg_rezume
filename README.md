@@ -1,6 +1,6 @@
 ![Header](https://github.com/mranolegprivate/anoleg_rezume/blob/main/assets/rezume_1.jpg?raw=true)
 
-QA инженер / Тестировщик:(https://img.shields.io/badge/-QA_инженер_/_Тестировщик(web, api, front-end, back-end):-090909?Color=1195F5)
+QA инженер / Тестировщик:(web, api, front-end, back-end))
 
 
 Ан Олег,
