@@ -1,0 +1,281 @@
+{
+	"info": {
+		"_postman_id": "950c2d9d-22ce-4e38-a47c-f2de8e8dd4c2",
+		"name": "Яндекс Расписание",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22920825"
+	},
+	"item": [
+		{
+			"name": "расписание рейсов между выбранными станциями (Богородское- Ледово)",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.rasp.yandex.net/v3.0/search/?apikey={{apikey}}&format=json&from=s9744494&to=s9743870&lang=ru_RU&date=2023-02-16&transport_types=train",
+					"protocol": "https",
+					"host": [
+						"api",
+						"rasp",
+						"yandex",
+						"net"
+					],
+					"path": [
+						"v3.0",
+						"search",
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "{{apikey}}"
+						},
+						{
+							"key": "format",
+							"value": "json"
+						},
+						{
+							"key": "from",
+							"value": "s9744494"
+						},
+						{
+							"key": "to",
+							"value": "s9743870"
+						},
+						{
+							"key": "lang",
+							"value": "ru_RU"
+						},
+						{
+							"key": "date",
+							"value": "2023-02-16"
+						},
+						{
+							"key": "transport_types",
+							"value": "train"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "расписание рейсов, отправляющихся от указанной станции (Москва (Казанский вокзал))",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.rasp.yandex.net/v3.0/schedule/?apikey={{apikey}}&station=s2000003&transport_types=suburban&direction=на Рязань и Черусти&date=2023-02-16",
+					"protocol": "https",
+					"host": [
+						"api",
+						"rasp",
+						"yandex",
+						"net"
+					],
+					"path": [
+						"v3.0",
+						"schedule",
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "{{apikey}}"
+						},
+						{
+							"key": "station",
+							"value": "s2000003"
+						},
+						{
+							"key": "transport_types",
+							"value": "suburban"
+						},
+						{
+							"key": "direction",
+							"value": "на Рязань и Черусти"
+						},
+						{
+							"key": "date",
+							"value": "2023-02-16"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "маршрут с указанием времени в пути и всех остановок (Екатеринбург — Сургут)",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.rasp.yandex.net/v3.0/thread/?apikey={{apikey}}&format=json&uid=050E_3_2&lang=ru_RU&show_systems=all",
+					"protocol": "https",
+					"host": [
+						"api",
+						"rasp",
+						"yandex",
+						"net"
+					],
+					"path": [
+						"v3.0",
+						"thread",
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "{{apikey}}"
+						},
+						{
+							"key": "format",
+							"value": "json"
+						},
+						{
+							"key": "uid",
+							"value": "050E_3_2"
+						},
+						{
+							"key": "lang",
+							"value": "ru_RU"
+						},
+						{
+							"key": "show_systems",
+							"value": "all"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "список ближайших к заданной точке станций (Аэропорт Шереметьево)",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.rasp.yandex.net/v3.0/nearest_stations/?apikey={{apikey}}&format=json&lat=55.0091300&lng=38.4986800&distance=25&lang=ru_RU",
+					"protocol": "https",
+					"host": [
+						"api",
+						"rasp",
+						"yandex",
+						"net"
+					],
+					"path": [
+						"v3.0",
+						"nearest_stations",
+						""
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "{{apikey}}"
+						},
+						{
+							"key": "format",
+							"value": "json"
+						},
+						{
+							"key": "lat",
+							"value": "55.0091300"
+						},
+						{
+							"key": "lng",
+							"value": "38.4986800"
+						},
+						{
+							"key": "distance",
+							"value": "25"
+						},
+						{
+							"key": "lang",
+							"value": "ru_RU"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "apikey",
+			"value": "504ca962-5e7b-4441-93bb-ce81299cab92",
+			"type": "string"
+		}
+	]
+}
