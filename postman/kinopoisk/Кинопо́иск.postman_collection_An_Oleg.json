@@ -1,0 +1,244 @@
+{
+	"info": {
+		"_postman_id": "65740c41-a2e2-46d9-8cbb-588032aa406f",
+		"name": "Кинопо́иск",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22920825"
+	},
+	"item": [
+		{
+			"name": "найти все доступные аниме за 2022 год с рейтингом выше 6",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.kinopoisk.dev/v1/movie?token={{apikey}}&page=1&limit=10&typeNumber=4&year=2022&rating.kp=6-10",
+					"protocol": "https",
+					"host": [
+						"api",
+						"kinopoisk",
+						"dev"
+					],
+					"path": [
+						"v1",
+						"movie"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "{{apikey}}"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "limit",
+							"value": "10"
+						},
+						{
+							"key": "typeNumber",
+							"value": "4"
+						},
+						{
+							"key": "year",
+							"value": "2022"
+						},
+						{
+							"key": "rating.kp",
+							"value": "6-10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "получить информацию по фильму (Аватар путь воды(2022))",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.kinopoisk.dev/v1/movie?token={{apikey}}&page=1&limit=10&name=Аватар путь воды",
+					"protocol": "https",
+					"host": [
+						"api",
+						"kinopoisk",
+						"dev"
+					],
+					"path": [
+						"v1",
+						"movie"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "{{apikey}}"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "limit",
+							"value": "10"
+						},
+						{
+							"key": "name",
+							"value": "Аватар путь воды"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "вывести все российские фильмы с Анастасией Задорожной",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.kinopoisk.dev/v1/movie?token={{apikey}}&page=1&limit=10&persons.name=Настя Задорожная",
+					"protocol": "https",
+					"host": [
+						"api",
+						"kinopoisk",
+						"dev"
+					],
+					"path": [
+						"v1",
+						"movie"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "{{apikey}}"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "limit",
+							"value": "10"
+						},
+						{
+							"key": "persons.name",
+							"value": "Настя Задорожная"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "вывести все негативные отзывы по фильму (Титаник (1997))",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.kinopoisk.dev/v1/review?token={{apikey}}&page=1&limit=10&movieId=326&type=Негативный",
+					"protocol": "https",
+					"host": [
+						"api",
+						"kinopoisk",
+						"dev"
+					],
+					"path": [
+						"v1",
+						"review"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "{{apikey}}"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "limit",
+							"value": "10"
+						},
+						{
+							"key": "movieId",
+							"value": "326"
+						},
+						{
+							"key": "type",
+							"value": "Негативный"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "apikey",
+			"value": "F2BZCP6-J5R47E2-N0T96DZ-PEVRKWC",
+			"type": "string"
+		}
+	]
+}
