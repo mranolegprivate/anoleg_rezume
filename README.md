@@ -50,7 +50,7 @@ mranolegprivate@gmail.com
 
 Информационные технологии, системная интеграция, интернет... Показать еще
 
-![Инженер_по_тестированию:](https://img.shields.io/badge/-Инженер_по_тестированию:-090909?style=for-the-badge&Color=1195F5)
+![Стажер_тестировщик:](https://img.shields.io/badge/-Стажер_тестировщик:-090909?style=for-the-badge&Color=1195F5)
 
 Во время обучения:
 
