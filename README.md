@@ -154,5 +154,5 @@ https://an-oleg.notion.site/2d8adf107a6a409db1d745db74464219
 
 ![stepik_qa](https://stepik.org/certificate/134e21593457b4e6004a4b7662f994f0e0b2fd59.png?resolution=low)
 ![stepik_jira](https://stepik.org/certificate/f1a70fa9a1e01fe4345118f83a894f73f62d6d61.png?resolution=low)
-
+![stepik_html](https://stepik.org/certificate/cb3cd983405a44d0139a959de1d9e8ef318bbb28.png?resolution=low)
 ![netology_python](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/212575/b6507cbb53e268fcf74f740f0bbebfc6.png?ts=1667917309)
