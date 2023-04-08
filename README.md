@@ -76,7 +76,7 @@ Trello, Qase.io, Sitechko, Checkvist, Miro, работа с макетами Fig
 - Знаком с Agile и Scrum
 - Знаком с CMS системами WordPress,DLE:
 
-Примеры работ посмотреть тут можно:
+Примеры работ посмотреть можно тут (не полностью готово):
 https://an-oleg.notion.site/2d8adf107a6a409db1d745db74464219
 
 ![ЗАДАЧИ:](https://img.shields.io/badge/-ЗАДАЧИ:-090909?style=for-the-badge&Color=1195F5)
