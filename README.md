@@ -77,7 +77,7 @@ Trello, Qase.io, Sitechko, Checkvist, Miro, работа с макетами Fig
 - Знаком с CMS системами WordPress,DLE:
 
 Примеры работ посмотреть можно тут (не полностью готово):
-https://an-oleg.notion.site/2d8adf107a6a409db1d745db74464219
+https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
 
 ![ЗАДАЧИ:](https://img.shields.io/badge/-ЗАДАЧИ:-090909?style=for-the-badge&Color=1195F5)
 - Учебное тестирование веб-сервисов:
