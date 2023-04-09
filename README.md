@@ -61,7 +61,7 @@ mranolegprivate@gmail.com
 - Практические навыки с системами хранения документации: Jira, Confluence,
 Trello, Qase.io, Sitechko, Checkvist, Miro, работа с макетами Figma:
 - Практические навыки тестирования API: Postman, DevTools, Mockoon, Swagger, SOAP UI, curl, powershell, bush, repit, Cron:
-- Практические навыки работы IDE: PyCharm, IntelliJ IDEA,VScode, PhpStorm:
+- Практические навыки работы IDE: PyCharm, IntelliJ IDEA,VScode, PhpStorm, Android Studio:
 - Практические навыки работы Windows, Linux (Ubuntu сервер)(VDS):
 - Практические навыки нагрузочного тестирования: Jmeter:
 - Практические навыки использования: Excel,redash,Open Server :
