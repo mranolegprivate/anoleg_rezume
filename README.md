@@ -1,7 +1,7 @@
 ### Hello everyone! My name is Oleg. Welcome to my GitHub👋 ###
 
 *🤗A few details about myself:*
-+ 🌱 II’m currently learning English and automation testing PYTHON
++ 🌱 II’m currently learning English and automation testing PYTHON.
 
 
 <div align="center">
@@ -27,51 +27,82 @@ mranolegprivate@gmail.com
 
 Ключевые навыки:
 
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=27A0D9)
-![Atlassian_Confluence](https://img.shields.io/badge/-atlassian-090909?style=for-the-badge&logo=atlassian&logoColor=27A0D9)
-![Atlassian_Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=27A0D9)
-![Miro](https://img.shields.io/badge/-Miro-090909?style=for-the-badge&logo=Miro&logoColor=27A0D9)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=27A0D9)
-![Git Bash](https://img.shields.io/badge/-Git%20Bash-090909?style=for-the-badge&logo=Git%20Bash&logoColor=27A0D9)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-090909?style=for-the-badge&logo=Android%20Studio&logoColor=27A0D9)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=27A0D9)
-![Windows](https://img.shields.io/badge/-windows-090909?style=for-the-badge&logo=windows&logoColor=27A0D9)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=27A0D9)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-090909?style=for-the-badge&logo=Microsoft%20Excel&logoColor=27A0D9)
-![Sitechco](https://img.shields.io/badge/-sitechco-090909?style=for-the-badge&logo=sitechco&logoColor=27A0D9)
-![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=27A0D9)
-![UX,UI](https://img.shields.io/badge/-UX,UI-090909?style=for-the-badge&logoColor=47C5FB)
-![Регрессионное_тестирование](https://img.shields.io/badge/-Регрессионное_тестирование-090909?style=for-the-badge&logoColor=47C5FB)
-![Функциональное_и_нефункциональное_тестирование](https://img.shields.io/badge/-Функциональное_и_нефункциональное_тестирование-090909?style=for-the-badge&logoColor=47C5FB)
-![интеграционное_тестирование](https://img.shields.io/badge/-интеграционное_тестирование-090909?style=for-the-badge&logoColor=47C5FB)
-![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=DevTools&logoColor=47C5FB)
-![SOAP_UI](https://img.shields.io/badge/-SOAP-090909?style=for-the-badge&logo=SOAP&logoColor=27A0D9)
-![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API&logoColor=27A0D9)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=27A0D9)
-![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-090909?style=for-the-badge&logoColor=47C5FB)
-![Qase.io](https://img.shields.io/badge/-Qase.io-090909?style=for-the-badge&logoColor=47C5FB)
-![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=DBeaver&logoColor=27A0D9)
-![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=27A0D9)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=27A0D9)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=27A0D9)
-![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-090909?style=for-the-badge&logoColor=47C5FB)
+![Web Testing](https://img.shields.io/badge/Web%20Testing-3867a2?style=for-the-badge&logo=Web&logoColor=white)
+![DevTools](https://img.shields.io/badge/DEVTOOLS-fcc525?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
+![Testing Theory](https://img.shields.io/badge/Testing%20Theory-674ea7?style=for-the-badge&logo=Testing-Theory&logoColor=white)
+![Atlassian_Confluence](https://img.shields.io/badge/-atlassian-FF6C37?style=for-the-badge&logo=atlassian&logoColor=white)
+![Atlassian_Jira](https://img.shields.io/badge/-Jira-095fda?style=for-the-badge&logo=Jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-e53e31.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/MIRO-ffba00?style=for-the-badge&logo=MIRO&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-ff318c?style=for-the-badge&logo=YouTrack&logoColor=white)
+![Yandex Tracker](https://img.shields.io/badge/Yandex%20Tracker-5ca5f8?style=for-the-badge&logo=YandexTracker&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-095fda.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Sitechco](https://img.shields.io/badge/-sitechco-FF6C37?style=for-the-badge&logo=sitechco&logoColor=white)
+![Qase.io](https://img.shields.io/badge/-Qase.io-%23000000?style=for-the-badge&logoColor=47C5FB)
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-188038?style=for-the-badge&logo=Google-Sheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-188038?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-%23000000?style=for-the-badge&logo=API&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SOAP_UI](https://img.shields.io/badge/-SOAP-5ca5f8?style=for-the-badge&logo=SOAP&logoColor=47C5FB)
+![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-a1ab26?style=for-the-badge&logo=Mobile&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3ae180.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Charles](https://img.shields.io/badge/CHARLES-d3dade?style=for-the-badge&logo=CHARLES&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-fcc525?style=for-the-badge&logo=DBeaver&logoColor=47C5FB)
+![Client server](https://img.shields.io/badge/Client%20Server-a25aff?style=for-the-badge&logo=Client-Server&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-ed1c24?style=for-the-badge&logo=SQL&logoColor=47C5FB)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-80b3ff.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitBash](https://img.shields.io/badge/-Git%20Bash-674ea7?style=for-the-badge&logo=Git%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-fcc525?style=for-the-badge&logo=HTML&logoColor=47C5FB)
+![CSS](https://img.shields.io/badge/-CSS-%23316192?style=for-the-badge&logo=CSS&logoColor=47C5FB)
+![JMeter](https://img.shields.io/badge/-JMeter-095fda?style=for-the-badge&logo=JMeter&logoColor=white)
+![Windows](https://img.shields.io/badge/-windows-fcc525?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-3ae180?style=for-the-badge&logo=Linux&logoColor=white)
+![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-fcc525?style=for-the-badge&logoColor=47C5FB)
+![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-3ae180?style=for-the-badge&logoColor=47C5FB)
 
-Опыт:
+![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-000080?style=for-the-badge&Color=1195F5)  
 
-![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-090909?style=for-the-badge&Color=1195F5)
+<a href="https://ksendzov.com/" target="_blank">ksendzov.com</a>
+
+Выполненные домашние работы:
+- Postman - https://clck.ru/34Ndve
+- TerminalLinux - https://clck.ru/34Ndx4
+- Git Branch - https://clck.ru/34SfK9
+- JSON - https://clck.ru/34Ne57
+- XML - https://clck.ru/34Ndxv
+- TXT - https://clck.ru/34NeAA
+- Devtools - https://clck.ru/34SdjZ
+- SQL - https://clck.ru/34UsCC
+
+- Разработка тестовой документации: тест-кейсы, чек-листы, чит-листы;
+- Ежедневное проведение smoke тестирования, регрес, ретест;
+- Написание баг-репортов;
+- Веб-тестирование (интеграционное, исследовательское, смоук, регрессионное, критического пути, кросс-браузерное, локализации);
+- UX/UI тестирование;
+- Мобильное тестирование (интеграционное, смоук, регрессионное, кросс-браузерное, кросс-платформенное).
+
+![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-000080?style=for-the-badge&Color=000080)  
+
+<a href="https://sky.pro/" target="_blank">sky.pro</a>
 
 Сентябрь 2022 — по настоящее время
 
-Информационные технологии, системная интеграция, интернет... Показать еще
+![Стажер-тестировщик:](https://img.shields.io/badge/-Стажер_тестировщик:-090909?style=for-the-badge&Color=1195F5 "Студент наставник")
 
-![Стажер_тестировщик:](https://img.shields.io/badge/-Стажер_тестировщик:-090909?style=for-the-badge&Color=1195F5)
+Примеры работ:
+
+- Курсовые и Дипломная - https://clck.ru/34QUkS
 
 Во время обучения:
 
 - Проводил функциональное и нефункциональное тестирование с использованием техник тест-дизайна и методологиями тестирования, знание жизненного цикла ПО:
 - Создавал тестовую документацию: тест-планы, анализ требований и отчетов по результатам тестирования (Confluence), чек-листы/чит-листы (Sitechco), тест-кейсы (Qase), баг-репорты (Jira):
-- Выполнял ручное тестирование системы:(Функциональное и нефункциональное тестирование, smoke-test, модульное, регрессионное, интеграционное, UX, UI, системное, кроссбраузерное, кроссплатформенное и приемочное тестирование):
+- Выполнял ручное тестирование системы: (Функциональное и нефункциональное тестирование, smoke-test, модульное, регрессионное, интеграционное, UX, UI, системное, кроссбраузерное, кроссплатформенное и приемочное тестирование):
 - Практические навыки использования: классов эквивалентности, граничные значения, техники комбинаторики, попарное тестирование, тестирование документации, метрики и отчетность:
+- Практические навыки тестирования без документации:
 - Практические навыки с системами хранения документации: Jira, Confluence,
 Trello, Qase.io, Sitechko, Checkvist, Miro, работа с макетами Figma:
 - Практические навыки тестирования API: Postman, DevTools, Mockoon, Swagger, SOAP UI, curl, powershell, bush, repit, Cron:
@@ -88,10 +119,7 @@ Trello, Qase.io, Sitechko, Checkvist, Miro, работа с макетами Fig
 - Знаком с Selenium Web Driver.
 - Знаком с php, Python, js, java на уровне понимания синтаксиса:
 - Знаком с Agile и Scrum
-- Знаком с CMS системами WordPress,DLE:
-
-Примеры работ посмотреть можно тут (не полностью готово):
-https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
+- Знаком с CMS системами WordPress, DLE:
 
 ![ЗАДАЧИ:](https://img.shields.io/badge/-ЗАДАЧИ:-090909?style=for-the-badge&Color=1195F5)
 - Учебное тестирование веб-сервисов:
@@ -110,12 +138,9 @@ https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
 - Организовывал продленки с учащимися:
 - Принял участие в тестировании сайта klumba71: Завел 6 баг-репортов, 2 из которых Critical:
 
-
-![DACK D:](https://img.shields.io/badge/-DACK_D,_Южная_Корея:-090909?style=for-the-badge&Color=1195F5)
+![DACK D:](https://img.shields.io/badge/-DACK_D,_Южная_Корея:-000080?style=for-the-badge&Color=000080)
 
 Апрель 2016 — июнь 2022
-
-Строительство, недвижимость, эксплуатация, проектирование... Показать еще
 
 Бригадир монтажников
 Компания занимается монтажом, демонтажом, ремонтом и обслуживанием систем вентиляции на заводах и предприятиях.
@@ -143,7 +168,7 @@ https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
 
 ![Обо_мне:](https://img.shields.io/badge/-Обо_мне:-090909?style=for-the-badge&Color=1195F5)
 
-- Имею релевантный опыт работы
+- Имею релевантный опыт работы.
 - Обладаю большим потенциалом для развития.
 - Очень люблю сферу IT, компьютерные технологии, осваивать новые компьютерные программы и приложения.
 - Мотивация учиться, склонность к самообучению.
@@ -163,12 +188,10 @@ https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
 
 Английский — A2 — Элементарный
 
-![Электронные_сертификаты:](https://img.shields.io/badge/-Электронные_сертификаты:-090909?style=for-the-badge&Color=1195F5)
+![Электронные_сертификаты:](https://img.shields.io/badge/-Электронные_сертификаты:-000080?style=for-the-badge&Color=000080)
 
 [![Stepik](https://img.shields.io/badge/-Stepik-090909?style=for-the-badge&logo=stepik&logoColor=4F7DB3)](https://stepik.org/users/524779521/certificates)
 [![netology](https://img.shields.io/badge/-netology-090909?style=for-the-badge&logo=netology&logoColor=4F7DB3)](https://netology.ru/sharing/b6507cbb53e268fcf74f740f0bbebfc6?utm_source=social&utm_campaign=achievements)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mranolegprivate&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mranolegprivate&show_icons=true&theme=transparent)
 
-
-  ![Snake animation](https://github.com/mranolegprivate/mranolegprivate/blob/output/github-contribution-grid-snake.svg)
